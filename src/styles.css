@@ -69,7 +69,7 @@ footer li {
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
-  row-gap: 20px;
+  grid-gap: 64px;
 }
 
 .footer-link {
